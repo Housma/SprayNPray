@@ -104,13 +104,3 @@ To change this list, edit the `SUPPORTED_PROTOCOLS` array at the top of the scri
 
 ---
 
-## ⚠️ Legal Disclaimer
-
-This tool is intended for authorized penetration testing and red teaming **only**.  
-Do not use this on networks or systems you don’t own or have permission to test.
-
----
-
-## 📄 License
-
-MIT
