@@ -28,10 +28,7 @@ This tool allows you to provide a list of IP addresses, usernames, and passwords
 ## 🧪 Usage
 
 ```bash
-python3 spraynpray.py \
-  -t targets.txt \
-  -u usernames.txt \
-  -p passwords.txt
+python3 spraynpray.py  -t targets.txt   -u usernames.txt  -p passwords.txt
 ```
 
 Where:
